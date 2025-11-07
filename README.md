@@ -14,7 +14,7 @@ This repository is part of the Python and Rust CLI tools course:
 - [5: Rust Advanced CLI](https://github.com/alfredodeza/advanced-rust-cli)
 
 ## Practice Lab
-Use the [included practice lab](./lab.md) to apply the content you've learned in this week. Follow the steps to create your own repository and apply the requirements to complete the lab.
+Use the [included practice lab](./lab.md) to apply the content you've learned in this week. Follow the steps to create your own repository and apply the requirements to complete.
 
 ## Setting up the environment
 Python development will require you to have Python installed on your system. For Linux systems, you should prefer the Python that comes available through the package manager. For example, on Ubuntu, you can install Python with the following command:
